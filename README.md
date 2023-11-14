@@ -2,7 +2,7 @@
 This repo is for the establishment of technologies and protocols for secure remote access to clients network.
 # Remote Connection Methods SOP
 
-## Purpose
+### Purpose
 The purpose of this SOP is to provide IT personnel with guidelines for configuring and managing remote connection methods, including RDP, SSH, and remote desktop viewer applications. This ensures secure and efficient remote access to organizational systems whether Windows, Mac, or Linux.
 
 ## Authorship
